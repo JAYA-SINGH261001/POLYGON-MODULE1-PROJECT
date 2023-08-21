@@ -6,7 +6,7 @@ This is my NFT Project, in which I was tasked to deploy an NFT collection on the
 To get started with the project, follow these steps:
 
 1. clone this repository :
-    `git clone https://github.com/Palakkkkkkkkkk/METACRAFTERS-POLYGON-MODULE-1.git`
+    `git clone https://https://github.com/JAYA-SINGH261001/POLYGON-MODULE1-PROJECT.git`
    
 2. Install the required dependencies :
      `npm install`
@@ -29,9 +29,8 @@ Run the following command to batch-mint NFTs using the deployed ERC721 contract:
 Run the following commands to approve and deposit the minted NFTs from Ethereum to the Polygon Mumbai network using the FxPortal Bridge:
 
 `npx hardhat run scripts/approveDeposit.js --network goerli`
-
-## Author
-PALAK JAIN :)
+## Author 
+Jaya Singh
 
 ## LICENSE
 This project is licensed under the [MIT License](LICENSE).
