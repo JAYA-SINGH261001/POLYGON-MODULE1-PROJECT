@@ -6,7 +6,7 @@ This is my NFT Project, in which I was tasked to deploy an NFT collection on the
 To get started with the project, follow these steps:
 
 1. clone this repository :
-    `git clone https://https://github.com/JAYA-SINGH261001/POLYGON-MODULE1-PROJECT.git`
+    `git clone https://github.com/JAYA-SINGH261001/POLYGON-MODULE1-PROJECT.git`
    
 2. Install the required dependencies :
      `npm install`
